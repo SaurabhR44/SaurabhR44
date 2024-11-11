@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaurabhR44
-- 👀 I’m interested in Building Websites(frontend as of Now)
+- 👀 I’m interested in Building Websites
 - 🌱 I’m currently learning Web Development(MERN STACK)
 - 📫 How to reach me linkedin.com/in/saurabh-r-muktedar-34a38b295
 
